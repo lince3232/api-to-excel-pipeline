@@ -1,7 +1,7 @@
 
 
 ```markdown
-# API to Excel Pipeline 📊
+# API to Excel Pipeline
 
 A Python-based data automation pipeline that extracts data from external APIs, cleans and transforms it, calculates business KPIs, and exports the results to Excel and PDF formats for analysis and reporting.
 
